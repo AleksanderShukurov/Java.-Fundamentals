@@ -1,0 +1,15 @@
+gold coins, 100, 25
+silver coins, 50, 40
+bronze coins, 25, 355
+copper coins, 10, 800
+aluminium coins, 5, 9999
+diamonds, 250, 12
+golden key, 150, 3
+golden jug, 200, 13
+golden button, 8, 400
+silver button, 6, 600
+bronze button, 5, 800
+copper button, 2, 1000
+aluminium button, 1, 2000
+steel button, 0.5, 2500
+Thor's hammer, 9999, 1
