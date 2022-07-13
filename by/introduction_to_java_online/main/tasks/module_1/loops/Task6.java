@@ -11,7 +11,7 @@ public class Task6 {
 
     void aSCII() {
         for (byte i = 33; i < 127; i++) {
-            trainingIO.printing("Number's " + i + " value of ASCII symbol" + (char) i);
+            trainingIO.printing("Number's " + i + " value of ASCII symbol: " + (char) i);
         }
     }
 }
